@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-family: 'Merriweather', serif;
+    background-color: #ff8c00;
+    color: gold;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+    padding: 20px 0px;
+}
+
+       /* NAVBAR */
+
+
+
+
+
+
+
+
+
+
+
+.img-silde{
+    background-color: black;
+}
+.slid-img{
+    width: 100%;
+    height: 10px;
+}
+.logo-img1{
+    width: 300px;
+    margin-left: 0%;
+}
+.footer {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 3%;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.root{
+    display: inline-flex;
+    justify-content: space-around;
+}
+.log{
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+h3{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: skyblue;
+    text-decoration: underline;
+    text-decoration-color: chartreuse;
+    margin-top: 50px;   
+}
+h6{
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #c2d1f0;
+    color: white ;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.text{
+    font-family: 'Crimson Text', serif;
+    width: 90%;
+    text-align: center;
+}
+
+#new{
+    border: 3px solid orange;
+    border-radius: 20px;
+}
+.ftb{
+    font-family: 'Crimson Text', serif;
+}
+
+.footer{
+    display: flex;  
+    justify-content: space-around;
+}
+
+.fa-facebook{
+    font-size: 50px;
+    color:#ace600;
+}
+.fa-twitter{
+    font-size: 50px;
+    color:#ace600;
+}
+.fa-instagram{
+    font-size: 50px;
+    color:#ace600;
+}
